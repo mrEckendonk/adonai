@@ -111,8 +111,8 @@ module.exports = {
   },
 
   // required if using webpack-dev-server
-  devServer: {
-    contentBase: "./dist",
-    hot: true,
-  },
+  // devServer: {
+  //   contentBase: "./dist",
+  //   hot: true,
+  // },
 };
