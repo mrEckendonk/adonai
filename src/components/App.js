@@ -6,8 +6,7 @@ const App = () => {
       
       <main>
         <div class="typewriter">
-          <h1>This domain is for sale.../ Este domínio está a venda... 
-          
+          <h1>This domain is for sale...    
           </h1>
           </div>
           
