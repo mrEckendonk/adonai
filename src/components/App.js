@@ -6,7 +6,7 @@ const App = () => {
       
       <main>
         <div class="typewriter">
-          <h1>This domain is for sale... git    
+          <h1>This domain is for sale...   
           </h1>
           </div>
           
